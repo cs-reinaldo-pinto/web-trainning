@@ -9,4 +9,5 @@ document.getElementById("btn-success").onclick = function(){
 
 document.getElementById("btn-danger").onclick = function(){
   alert("Obrigado mesmo assim!");
+  console.log("Nao quero ser seu amigo!")
 }
